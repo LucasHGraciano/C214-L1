@@ -23,3 +23,5 @@ R.question('X: ', (n1) => {
     }
   });
 });
+
+printf("Oi")
