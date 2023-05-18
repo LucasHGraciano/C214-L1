@@ -8,7 +8,7 @@ class Time {
   }
 }
 
-const pessoa = new Time('Barcelona')
+const time = new Time('Barcelona')
 console.log(time.getName())
 
 /*Factory*/
